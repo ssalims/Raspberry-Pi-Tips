@@ -3,7 +3,7 @@
 ====================================================================================================================================
 created on 16th oct 2021
 -----------------------------------------------------------------------------------------------------------------
-^^ What to do when you get the warning message “REMOTE HOST IDENTIFICATION HAS CHANGED” from your Raspberry Pi ^^
+^^ 1. What to do when you get the warning message “REMOTE HOST IDENTIFICATION HAS CHANGED” from your Raspberry Pi ^^
 -----------------------------------------------------------------------------------------------------------------
 Reason: An OS security feature with the intent to avoid Man-in-the-Middle attacks.
 
@@ -14,7 +14,7 @@ Reason: An OS security feature with the intent to avoid Man-in-the-Middle attack
 
 
 -------------------------------
-^^ Headless ssh & WiFi Setup ^^
+^^ 2. Headless ssh & WiFi Setup ^^
 -------------------------------
 credit to: https://desertbot.io/blog/headless-raspberry-pi-4-ssh-wifi-setup
 i. Enable ssh
